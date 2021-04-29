@@ -1,4 +1,33 @@
 # Project Introduction
+ group5project
+ 
+Hello, 
+
+Welcome to our data vizualisation project. 
+
+Our project will cover the effects of Covid-19 and it's impacts on: 
+
+..
+General population health (i.e. infections, deaths and recoveries)
+..
+
+..
+Labour outcomes 
+..
+
+..
+Human population movements (travel)
+..
+
+..
+Mining
+..
+
+
+What we hope to show with our data is the below hypthesis: 
+
+1. Despite Covid-19 impacts on the human population, Australia continued to maintain high economic performance and minimal depressions to it's labour market... 
+
 
 # Project Structure
 ```
