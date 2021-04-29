@@ -1,5 +1,5 @@
 # Project Introduction
- group5project
+ COVID-19 - Data Assessment : group5project
  
 Hello, 
 
@@ -12,7 +12,7 @@ General population health (i.e. infections, deaths and recoveries)
 ```
 
 ```
-Labour outcomes 
+Labour outcomes (employment rates) 
 ```
 
 ```
@@ -20,13 +20,13 @@ Human population movements (travel)
 ```
 
 ```
-Mining
+Mining (sector performance)
 ```
 
 
 What we hope to show with our data is the below hypthesis: 
 
-1. Despite Covid-19 impacts on the human population, Australia continued to maintain high economic performance and minimal depressions to it's labour market... 
+1. Despite Covid-19, Australia continued to maintain high economic performance, with minimal depressions to it's labour market.
 
 
 # Project Structure
