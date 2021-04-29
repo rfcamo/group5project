@@ -20,13 +20,16 @@ Human population movements (travel)
 ```
 
 ```
-Mining (sector performance)
+Mining, Oil and Gas (sector performances)
 ```
 
 
 What we hope to show with our data is the below hypthesis: 
 
-1. Despite Covid-19, Australia continued to maintain high economic performance, with minimal depressions to it's labour market.
+. Despite Covid-19, Australia continued to maintain high economic performance, with minimal depressions to it's labour market.
+
+Our antithesis would be: 
+. That Australia did suffer economic decline, with greater depressions to it's labour market. 
 
 
 # Project Structure
