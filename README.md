@@ -37,8 +37,8 @@ We are typing in code format using ```. Use to craft folder structure. Eg.
 |__Output
     |__covid_output
 |__Resources
-    |__covid_data
-|__clean_data
+    |__covid_raw
+|__cleaning_files
     |__covid_clean
 ```
 # Usage
