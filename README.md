@@ -12,7 +12,7 @@ General population health (i.e. infections, deaths and recoveries)
 ```
 
 ```
-Labour outcomes (employment rates) 
+Labour outcomes (employment vs unemployment rates) 
 ```
 
 ```
@@ -25,7 +25,6 @@ Mining, Oil and Gas (sector performances)
 
 
 What we hope to show with our data is the below hypthesis: 
-
 . Despite Covid-19, Australia continued to maintain high economic performance, with minimal depressions to it's labour market.
 
 Our antithesis would be: 
