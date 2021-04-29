@@ -34,27 +34,31 @@ Our antithesis would be:
 # Project Structure
 ```
 We are typing in code format using ```. Use to craft folder structure. Eg.
-|__notebooks
-|__
-    |__file.py
+|__Output
+    |__covid_output
+|__Resources
+    |__covid_data
+|__clean_data
+    |__covid_clean
 ```
 # Usage
 
 # Questions
 '-' shows up as dotpoint if used at the start of line
-- Q1
+- What is the effect of COVID-19 on the labour force of Australian States?
 - Q2
 # Datasets
 this how to format a table
-|columnA|ColumnB|columnC|
+|No.|Source|Link|
 |-|-|-|
-|value1|value2|value3|
-|value1|value2|value3|
+|1|COVID-19 Data Repository by CSSE at John Hopkins University|https://github.com/CSSEGISandData/COVID-19|
+|2|Australian Bureau of Statistics Datasets|https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release|
+|
 
 
 # Analysis
 '![]' used to add images
-![Corona Image](Resources/covid_image.png)
+![Corona Image](Resources/covid_data/covid_image.png)
 # Contributors
 [@JackPan](https://www.github.com/jackxinpan)
 
