@@ -26,14 +26,11 @@ Mining, Oil and Gas (sector performances)
 
 What we hope to show with our data is the below hypothesis: 
 
-```
 Despite Covid-19, Australia continued to maintain high economic performance, with minimal depressions to its labour market.
-```
+
 
 Our antithesis would be: 
-```
 That Australia did suffer economic decline, with greater depressions to its labour market. 
-```
 
 # Project Structure
 ```
