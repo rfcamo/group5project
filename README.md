@@ -3,7 +3,7 @@
  
 Hello, 
 
-Welcome to our data vizualisation project. 
+Welcome to our data visualisation project. 
 
 Our project will cover the effects of Covid-19 and it's impacts on: 
 
@@ -12,7 +12,7 @@ General population health (i.e. infections, deaths and recoveries)
 ```
 
 ```
-Labour outcomes (employment vs unemployment rates) 
+Labour outcomes (unemployment rates) 
 ```
 
 ```
