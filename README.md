@@ -5,8 +5,25 @@ Hello,
 
 Welcome to our data visualisation project. 
 
-Our project will cover the effects of Covid-19 and it's impacts on: 
+Our project name will simply be referred to as: COVID-19 - Data Assessment: group5project
 
+Reasoning of topic choice: 
+Almost everyone has been touched by Covid-19 in one way or another; whether that is through the form of: restrictions, employment life and those personally dealing with the devistating disease. We wanted to create a snapshot into the true impacts of the virus.    
+
+The project scope will cover : 
+1. What is the impact of Covid-19 on Australia? 
+1.1. What is the specific effect of Covid-19 on the macro-economy of Australia? 
+1.1.1. Were there any differences between State and Territories? 
+
+Acknowledgements   
+Scope of data: 
+The sheer size of the macro economy meant we needed to decide on specific areas of measurement (e.g.) categories. 
+
+Limitations of Data: 
+This will not cover all industry sectors of business performance.
+
+
+Categories (used in this project)
 ```
 General population health (i.e. infections)
 ```
@@ -26,11 +43,8 @@ Mining, Oil and Gas (sector performances)
 
 What we hope to show with our data is the below hypothesis: 
 
-Despite Covid-19, Australia continued to maintain high economic performance, with minimal depressions to its labour market.
+Covid-19 had a significant negative effect on the afforementioned 
 
-
-Our antithesis would be: 
-That Australia did suffer economic decline, with greater depressions to its labour market. 
 
 # Project Structure
 ```
