@@ -17,11 +17,9 @@ The project scope will cover :
 3. Were there any differences between State and Territories? 
 
 Acknowledgements   
-Scope of data: 
-The sheer size of the macro economy meant we needed to decide on specific areas of measurement (e.g.) categories. 
+Scope of data: the sheer size of the macro economy meant we needed to decide on specific areas of measurement (e.g.) categories. 
 
-Limitations of Data:
-This will not cover all industry sectors of business performance.
+Limitations of Data: this will not cover all industry sectors of business performance.
 
 
 Categories to be used in this project
@@ -43,9 +41,9 @@ Mining, Oil and Gas (sector performances)
 ```
 
 
-What we hope to show with our data is the below hypothesis: 
+Hypothesis
 
-Covid-19 had a significant negative effect on the afforementioned categories. 
+What we hope to show with our data is that Covid-19 had a significant negative effect on the afforementioned categories. 
 
 
 # Project Structure
