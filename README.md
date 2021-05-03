@@ -11,10 +11,6 @@ Reasoning of topic choice:
 Almost everyone has been touched by Covid-19 in one way or another. 
 Whether that is through the form of: restrictions, employment life and those personally dealing with the devistating disease, we wanted to create a snapshot into the true impacts of the virus.    
 
-The project scope will cover : 
-1. What is the impact of Covid-19 on Australia? 
-2. What is the specific effect of Covid-19 on the macro-economy of Australia? 
-3. Were there any differences between State and Territories? 
 
 Acknowledgements   
 Scope of data: the sheer size of the macro economy meant we needed to decide on specific areas of measurement (e.g.) categories. 
@@ -59,8 +55,10 @@ We are typing in code format using ```. Use to craft folder structure. Eg.
 # Usage
 
 # Questions
-- What is the effect of COVID-19 on the labour force of Australian States?
-- Q2
+1. What is the impact of Covid-19 on Australia? 
+2. What is the specific effect of Covid-19 on the macro-economy of Australia? 
+3. Were there any differences between State and Territories? 
+
 # Datasets
 this how to format a table
 |No.|Source|Link|
@@ -71,7 +69,9 @@ this how to format a table
 
 
 # Analysis
-
+ Our overall data assessment proved our hypothesis correct, with the exception of sector performance (mining, oil and gas); which actually experienced an increase in economic growth and productivity during the pandemic. 
+ 
+ 
 ![Corona Image](Resources/covid_data/covid_image.png)
 # Contributors
 [@JackPan](https://www.github.com/jackxinpan)
