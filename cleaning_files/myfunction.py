@@ -59,11 +59,16 @@ def myreg(xdata,ydata,xpos,ypos, title, xlabel,ylabel,fname):
     plt.title(title)
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
+    # plt.xlim(0,xlim)
+    plt.grid(which = 'minor', axis = 'both')
     plt.show()
-    plt.grid(which = 'major', axis = 'both')
     plt.savefig(f'../Output/industry/{fname}')
     print(f"The r-squared is: {rval**2}")
-    print(f"The r-squared is: {pval}")
+    print(f"The p-value is: {pval}")
+    if pval < 0.05:
+        print(f"p-val < 0.05, hence null hypothesis is rejected")
+    else:
+        print(f"p-val > 0.05, there is not enough evidance to reject null hypothesis")
 
 def mychoro(m, dataframe,col_id,col_val, legendname):
     m = folium.Map(location=[-28.314629039038312, 139.577597363054], zoom_start=4)
