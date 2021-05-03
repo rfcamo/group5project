@@ -3,7 +3,7 @@
  
 Hello, 
 
-Welcome to our data vizualisation project. 
+Welcome to our data visualisation project. 
 
 Our project will cover the effects of Covid-19 and it's impacts on: 
 
@@ -12,7 +12,7 @@ General population health (i.e. infections, deaths and recoveries)
 ```
 
 ```
-Labour outcomes (employment vs unemployment rates) 
+Labour outcomes (unemployment rates) 
 ```
 
 ```
@@ -25,11 +25,12 @@ Mining, Oil and Gas (sector performances)
 
 
 What we hope to show with our data is the below hypothesis: 
-. Despite Covid-19, Australia continued to maintain high economic performance, with minimal depressions to its labour market.
+
+Despite Covid-19, Australia continued to maintain high economic performance, with minimal depressions to its labour market.
+
 
 Our antithesis would be: 
-. That Australia did suffer economic decline, with greater depressions to its labour market. 
-
+That Australia did suffer economic decline, with greater depressions to its labour market. 
 
 # Project Structure
 ```
