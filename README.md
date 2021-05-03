@@ -17,15 +17,14 @@ The project scope will cover :
 
 Acknowledgements   
 Scope of data: 
-
 The sheer size of the macro economy meant we needed to decide on specific areas of measurement (e.g.) categories. 
 
 Limitations of Data:
-
 This will not cover all industry sectors of business performance.
 
 
-Categories (used in this project)
+Categories to be used in this project
+
 ```
 General population health (i.e. infections)
 ```
@@ -45,7 +44,7 @@ Mining, Oil and Gas (sector performances)
 
 What we hope to show with our data is the below hypothesis: 
 
-Covid-19 had a significant negative effect on the afforementioned 
+Covid-19 had a significant negative effect on the afforementioned categories. 
 
 
 # Project Structure
