@@ -59,7 +59,6 @@ We are typing in code format using ```. Use to craft folder structure. Eg.
 # Usage
 
 # Questions
-'-' shows up as dotpoint if used at the start of line
 - What is the effect of COVID-19 on the labour force of Australian States?
 - Q2
 # Datasets
