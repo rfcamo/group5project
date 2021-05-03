@@ -71,7 +71,7 @@ this how to format a table
 
 
 # Analysis
-'![]' used to add images
+
 ![Corona Image](Resources/covid_data/covid_image.png)
 # Contributors
 [@JackPan](https://www.github.com/jackxinpan)
