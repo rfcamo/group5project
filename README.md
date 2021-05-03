@@ -7,6 +7,7 @@ Welcome to our data visualisation project.
 Our project name will simply be referred to as: COVID-19 - Data Assessment: group5project
 
 Reasoning of topic choice: 
+
 Almost everyone has been touched by Covid-19 in one way or another. 
 Whether that is through the form of: restrictions, employment life and those personally dealing with the devistating disease, we wanted to create a snapshot into the true impacts of the virus.    
 
