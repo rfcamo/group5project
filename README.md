@@ -8,7 +8,7 @@ Welcome to our data visualisation project.
 Our project will cover the effects of Covid-19 and it's impacts on: 
 
 ```
-General population health (i.e. infections, deaths and recoveries)
+General population health (i.e. infections)
 ```
 
 ```
