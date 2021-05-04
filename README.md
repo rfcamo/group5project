@@ -69,7 +69,10 @@ this how to format a table
 |-|-|-|
 |1|COVID-19 Data Repository by CSSE at John Hopkins University|https://github.com/CSSEGISandData/COVID-19|
 |2|Australian Bureau of Statistics Datasets|https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release|
-|
+|3|Australia Digital Boundary Geojson|https://github.com/rowanhogan/australian-states/blob/master/states.min.geojson|
+|4|Australian Bureau of Statistics Datasets|https://www.abs.gov.au/statistics/industry/mining/mineral-and-petroleum-exploration-australia/dec-2020|
+|5|Australian Bureau of Statistics Datasets|https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/feb-2021|
+
 
 
 # Analysis
