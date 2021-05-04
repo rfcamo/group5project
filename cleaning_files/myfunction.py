@@ -51,23 +51,26 @@ def myreg(xdata,ydata,xpos,ypos, title, xlabel,ylabel,fname):
     fit = slope * xdata + intercept
     # line equation to be displayed
     line_eq = "y = " + str(round(slope,2)) + "x + " + str(round(intercept,2))
-    
+
     # Create linear regression
     plt.plot(xdata,fit,"--", color = 'red')
     plt.annotate(line_eq,(xpos,ypos),fontsize=15,color="red")
     plt.scatter(xdata, ydata)
+    # plt.annotate(line_eq,(xpos,ypos),fontsize=15,color="red")
     plt.title(title)
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
+    # plt.xlim(0,xlim)
     plt.grid(which = 'major', axis = 'both')
     plt.savefig(f'../Output/industry/{fname}')
     plt.show()
     print(f"The r-squared is: {rval**2}")
-    print(f"The pval is: {pval}")
+    print(f"The r-squared is: {rval}")
+    print(f"The p-value is: {pval}")
     if pval < 0.05:
-        print(f'Null hypothesis can be rejected')
+        print(f"p-val < 0.05, hence null hypothesis is rejected")
     else:
-        print('There are no evidence that null hypothesis can be rejected')
+        print(f"p-val > 0.05, there is not enough evidance to reject null hypothesis")
 
 def mychoro(m, dataframe,col_id,col_val, legendname):
     m = folium.Map(location=[-28.314629039038312, 139.577597363054], zoom_start=4)
