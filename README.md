@@ -51,6 +51,10 @@ We are typing in code format using ```. Use to craft folder structure. Eg.
     |__covid_raw
 |__cleaning_files
     |__covid_clean
+    cov_clean_AMB_v3.ipynb
+    industry_clean_v3.ipynb
+    myfunction.py
+    plot_data_v3.ipynb
 ```
 # Usage
 
