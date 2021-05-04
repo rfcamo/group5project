@@ -65,6 +65,7 @@ def myreg(xdata,ydata,xpos,ypos, title, xlabel,ylabel,fname):
     plt.savefig(f'../Output/industry/{fname}')
     plt.show()
     print(f"The r-squared is: {rval**2}")
+    print(f"The r-squared is: {rval}")
     print(f"The p-value is: {pval}")
     if pval < 0.05:
         print(f"p-val < 0.05, hence null hypothesis is rejected")
