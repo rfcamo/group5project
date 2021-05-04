@@ -51,18 +51,19 @@ def myreg(xdata,ydata,xpos,ypos, title, xlabel,ylabel,fname):
     fit = slope * xdata + intercept
     # line equation to be displayed
     line_eq = "y = " + str(round(slope,2)) + "x + " + str(round(intercept,2))
-    
+
     # Create linear regression
     plt.plot(xdata,fit,"--", color = 'red')
-    plt.scatter(xdata, ydata)
     plt.annotate(line_eq,(xpos,ypos),fontsize=15,color="red")
+    plt.scatter(xdata, ydata)
+    # plt.annotate(line_eq,(xpos,ypos),fontsize=15,color="red")
     plt.title(title)
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
     # plt.xlim(0,xlim)
-    plt.grid(which = 'minor', axis = 'both')
-    plt.show()
+    plt.grid(which = 'major', axis = 'both')
     plt.savefig(f'../Output/industry/{fname}')
+    plt.show()
     print(f"The r-squared is: {rval**2}")
     print(f"The p-value is: {pval}")
     if pval < 0.05:
