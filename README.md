@@ -42,16 +42,25 @@ Hypothesis
 What we hope to show with our data is that Covid-19 had a significant negative effect on the afforementioned categories. 
 
 
+
 # Project Structure
+IMPORTANT**: STRUCTURE IS ONLY SHOWN TO SHOW MOST RELEVANT DATA 
 ```
 We are typing in code format using ```. Use to craft folder structure. Eg.
-|__Output
+|__Output # saved images and CSVs from cleaning and regression
     |__covid_output
+    |__employment_output
+    |__industry
 |__Resources
     |__covid_raw
+    C19_AU_2018_2021.csv
+    M_C19_AU_2018_2021.csv 
+|__employment_data
+    employment_clean # cleaning file for unemployment
+    employment_data_plot # unemployment regression file
+    |__Ray Data # raw data for unemployment
 |__cleaning_files
-    |__covid_clean
-    cov_clean_AMB_v3.ipynb
+    cov_clean_AMB_v3.ipynb #cleaning file
     industry_clean_v3.ipynb
     myfunction.py
     plot_data_v3.ipynb
@@ -61,7 +70,6 @@ We are typing in code format using ```. Use to craft folder structure. Eg.
 # Questions
 1. What is the impact of Covid-19 on Australia? 
 2. What is the specific effect of Covid-19 on the macro-economy of Australia? 
-3. Were there any differences between State and Territories? 
 
 # Datasets
 this how to format a table
@@ -73,10 +81,16 @@ this how to format a table
 
 
 # Analysis
- Our overall data assessment proved our hypothesis correct, with the exception of sector performance (mining, oil and gas); which actually experienced an increase in economic growth and productivity during the pandemic. 
+ - There is a positive correlation between unemployment and CoVID19. Which is what we expected.
+- ![](Output/employment_output/confirmed_vs_unemployment_aus_line.png) 
+![](Output/employment_output/confirmed_vs_unemployment_aus_regression.png)
+ - There is negative correlation between travel/tourism and CoVID19 as expected.
+
+
+ - No evidence of correlation between mining/petroleum sector and CoVID19. Which not we expected.
+
  
- 
-![Corona Image](Resources/covid_data/covid_image.png)
+
 # Contributors
 [@JackPan](https://www.github.com/jackxinpan)
 
