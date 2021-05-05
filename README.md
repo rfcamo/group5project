@@ -46,7 +46,7 @@ What we hope to show with our data is that Covid-19 had a significant negative e
 # Project Structure
 IMPORTANT**: STRUCTURE IS ONLY SHOWN TO SHOW MOST RELEVANT DATA 
 ```
-We are typing in code format using ```. Use to craft folder structure. Eg.
+
 |__Output # saved images and CSVs from cleaning and regression
     |__covid_output
     |__employment_output
@@ -56,8 +56,8 @@ We are typing in code format using ```. Use to craft folder structure. Eg.
     C19_AU_2018_2021.csv
     M_C19_AU_2018_2021.csv 
 |__employment_data
-    employment_clean # cleaning file for unemployment
-    employment_data_plot # unemployment regression file
+    employment_clean_main # cleaning file for unemployment in presentation
+    employment_data_plot_main # unemployment regression file in presentation
     |__Ray Data # raw data for unemployment
 |__cleaning_files
     cov_clean_AMB_v3.ipynb #cleaning file
@@ -72,7 +72,6 @@ We are typing in code format using ```. Use to craft folder structure. Eg.
 2. What is the specific effect of Covid-19 on the macro-economy of Australia? 
 
 # Datasets
-this how to format a table
 |No.|Source|Link|
 |-|-|-|
 |1|COVID-19 Data Repository by CSSE at John Hopkins University|https://github.com/CSSEGISandData/COVID-19|
