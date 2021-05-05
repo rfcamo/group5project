@@ -44,7 +44,7 @@ What we hope to show with our data is that Covid-19 had a significant negative e
 
 
 # Project Structure
-IMPORTANT**: STRUCTURE IS ONLY SHOWN TO SHOW MOST RELEVANT DATA 
+IMPORTANT**: STRUCTURE HIGHLIGHTS DATA USED WE CHOSE TO USE IN THE PRESENTATION. EVERYTHING ELSE IS SUPPLEMENTARY FOR NARRATIVES WE COULD NOT INCLUDE
 ```
 
 |__Output # saved images and CSVs from cleaning and regression
@@ -64,6 +64,7 @@ IMPORTANT**: STRUCTURE IS ONLY SHOWN TO SHOW MOST RELEVANT DATA
     industry_clean_v3.ipynb
     myfunction.py
     plot_data_v3.ipynb
+CoVID-19pp.pptx
 ```
 # Usage
 
